@@ -1,0 +1,182 @@
+[
+  {
+    "Slug": "soleira-manor-copy",
+    "Title": "Soleira Manor ",
+    "propertyImage": {
+      "url": "https://framerusercontent.com/images/6gV8gdzQ7YAoZ4qs1FW37V6as.jpg"
+    },
+    "PriceValue": 800000,
+    "select place": "New York ",
+    "propertyType": "New ",
+    "bedrooms": 2,
+    "sqft": 1000,
+    "Bathrooms": 2,
+    "priceRange": "$800,000 -  $1,000,000",
+    "Content": "<p><br></p>"
+  },
+  {
+    "Slug": "luxury-loft",
+    "Title": "Luxury Loft ",
+    "propertyImage": {
+      "url": "https://framerusercontent.com/images/BWIwO7cy6oHmP03FwmYJMzWih3I.png"
+    },
+    "PriceValue": 1000000,
+    "select place": "Angeles ",
+    "propertyType": "New ",
+    "bedrooms": 5,
+    "sqft": 1500,
+    "Bathrooms": 5,
+    "priceRange": "$1,000,000 - $1,500,000",
+    "Content": ""
+  },
+  {
+    "Slug": "modern-condo",
+    "Title": "Modern Condo",
+    "propertyImage": {
+      "url": "https://framerusercontent.com/images/mdIiygxWUFuTqljlYn6lqOaedQ.jpg"
+    },
+    "PriceValue": 920000,
+    "select place": "USA",
+    "propertyType": "New ",
+    "bedrooms": 3,
+    "sqft": 1000,
+    "Bathrooms": 3,
+    "priceRange": "$800,000 -  $1,000,000",
+    "Content": "<p><br></p>"
+  },
+  {
+    "Slug": "skyline-edge-residence",
+    "Title": "Skyline Edge Residence",
+    "propertyImage": {
+      "url": "https://framerusercontent.com/images/x4xlvqMgtgpieAbbCCpf4IOorA.png"
+    },
+    "PriceValue": 1500000,
+    "select place": "UK",
+    "propertyType": "Resale",
+    "bedrooms": 12,
+    "sqft": 1500,
+    "Bathrooms": 12,
+    "priceRange": "$1,500,000 - $1,700,000",
+    "Content": ""
+  },
+  {
+    "Slug": "the-glass-haven",
+    "Title": "The Glass Haven",
+    "propertyImage": {
+      "url": "https://framerusercontent.com/images/1YcJj9rAaeQGwhdOAsGOv06t3qw.jpg"
+    },
+    "PriceValue": 970000,
+    "select place": "USA",
+    "propertyType": "Resale",
+    "bedrooms": 4,
+    "sqft": 1100,
+    "Bathrooms": 4,
+    "priceRange": "$800,000 -  $1,000,000",
+    "Content": ""
+  },
+  {
+    "Slug": "serene-vista-residence",
+    "Title": "Serene Vista Residence  ",
+    "propertyImage": {
+      "url": "https://framerusercontent.com/images/j8JIzS1nwTxKkQDGbJYMYshU6vw.png"
+    },
+    "PriceValue": 950000,
+    "select place": "Angeles ",
+    "propertyType": "Resale",
+    "bedrooms": 3,
+    "sqft": 1500,
+    "Bathrooms": 3,
+    "priceRange": "$800,000 -  $1,000,000",
+    "Content": ""
+  },
+  {
+    "Slug": "charming-victorian-house",
+    "Title": "Charming Victorian House",
+    "propertyImage": {
+      "url": "https://framerusercontent.com/images/JAmudLYNF1yT0SXiJd3na1kqEvs.jpg"
+    },
+    "PriceValue": 1000000,
+    "select place": "Angeles ",
+    "propertyType": "Resale",
+    "bedrooms": 3,
+    "sqft": 900,
+    "Bathrooms": 3,
+    "priceRange": "$1,000,000 - $1,500,000",
+    "Content": ""
+  },
+  {
+    "Slug": "beachfront-property",
+    "Title": "Beachfront Property",
+    "propertyImage": {
+      "url": "https://framerusercontent.com/images/W8DeSLlipPrJDbCLgsRcMD7kprQ.jpg"
+    },
+    "PriceValue": 1700000,
+    "select place": "UK",
+    "propertyType": "Resale",
+    "bedrooms": 5,
+    "sqft": 1200,
+    "Bathrooms": 5,
+    "priceRange": "$1,700,000 - $2,500,000+",
+    "Content": ""
+  },
+  {
+    "Slug": "penthouse-with-rooftop-garden",
+    "Title": "Penthouse with Rooftop Garden",
+    "propertyImage": {
+      "url": "https://framerusercontent.com/images/NVrs4tg0zGUs1xACzL3deyezRYg.jpg"
+    },
+    "PriceValue": 1500000,
+    "select place": "New York ",
+    "propertyType": "Resale",
+    "bedrooms": 4,
+    "sqft": 1000,
+    "Bathrooms": 4,
+    "priceRange": "$1,500,000 - $1,700,000",
+    "Content": ""
+  },
+  {
+    "Slug": "modern-apartment",
+    "Title": "Modern Apartment ",
+    "propertyImage": {
+      "url": "https://framerusercontent.com/images/P8X7850V0sXmirYsYMATjelzuw.jpg"
+    },
+    "PriceValue": 1200000,
+    "select place": "USA",
+    "propertyType": "New ",
+    "bedrooms": 4,
+    "sqft": 1300,
+    "Bathrooms": 4,
+    "priceRange": "$1,000,000 - $1,500,000",
+    "Content": ""
+  },
+  {
+    "Slug": "luxury-condo-with-city-views",
+    "Title": "Luxury Condo with City Views",
+    "propertyImage": {
+      "url": "https://framerusercontent.com/images/yK1yEtSezNAnz25TK0Ef8u9SLo.jpg"
+    },
+    "PriceValue": 1700000,
+    "select place": "New York ",
+    "propertyType": "New ",
+    "bedrooms": 5,
+    "sqft": 1600,
+    "Bathrooms": 5,
+    "priceRange": "$1,700,000 - $2,500,000+",
+    "Content": ""
+  },
+  {
+    "Slug": "spacious-family-home",
+    "Title": "Spacious Family Home",
+    "propertyImage": {
+      "url": "https://framerusercontent.com/images/3twHQLDhM2jyVrW9RrNoiIYeHBY.jpg"
+    },
+    "PriceValue": 2000000,
+    "select place": "UK",
+    "propertyType": "New ",
+    "bedrooms": 9,
+    "sqft": 2000,
+    "Bathrooms": 9,
+    "priceRange": "$1,700,000 - $2,500,000+",
+    "Content": ""
+  }
+]
