@@ -1,7 +1,7 @@
 [
   {
     "Slug": "soleira-manor-copy",
-    "PropertyName": "Soleira Manor ",
+    "PropertyTitle": "Soleira Manor ",
     "PropertyImage": {
       "url": "https://framerusercontent.com/images/6gV8gdzQ7YAoZ4qs1FW37V6as.jpg"
     },
@@ -16,7 +16,7 @@
   },
   {
     "Slug": "luxury-loft",
-    "PropertyName": "Luxury Loft ",
+    "PropertyTitle": "Luxury Loft ",
     "PropertyImage": {
       "url": "https://framerusercontent.com/images/BWIwO7cy6oHmP03FwmYJMzWih3I.png"
     },
@@ -31,7 +31,7 @@
   },
   {
     "Slug": "modern-condo",
-    "PropertyName": "Modern Condo",
+    "PropertyTitle": "Modern Condo",
     "PropertyImage": {
       "url": "https://framerusercontent.com/images/mdIiygxWUFuTqljlYn6lqOaedQ.jpg"
     },
@@ -46,7 +46,7 @@
   },
   {
     "Slug": "skyline-edge-residence",
-    "PropertyName": "Skyline Edge Residence",
+    "PropertyTitle": "Skyline Edge Residence",
     "PropertyImage": {
       "url": "https://framerusercontent.com/images/x4xlvqMgtgpieAbbCCpf4IOorA.png"
     },
@@ -61,7 +61,7 @@
   },
   {
     "Slug": "the-glass-haven",
-    "PropertyName": "The Glass Haven",
+    "PropertyTitle": "The Glass Haven",
     "PropertyImage": {
       "url": "https://framerusercontent.com/images/1YcJj9rAaeQGwhdOAsGOv06t3qw.jpg"
     },
@@ -76,7 +76,7 @@
   },
   {
     "Slug": "serene-vista-residence",
-    "PropertyName": "Serene Vista Residence  ",
+    "PropertyTitle": "Serene Vista Residence  ",
     "PropertyImage": {
       "url": "https://framerusercontent.com/images/j8JIzS1nwTxKkQDGbJYMYshU6vw.png"
     },
@@ -91,7 +91,7 @@
   },
   {
     "Slug": "charming-victorian-house",
-    "PropertyName": "Charming Victorian House",
+    "PropertyTitle": "Charming Victorian House",
     "PropertyImage": {
       "url": "https://framerusercontent.com/images/JAmudLYNF1yT0SXiJd3na1kqEvs.jpg"
     },
@@ -106,7 +106,7 @@
   },
   {
     "Slug": "beachfront-property",
-    "PropertyName": "Beachfront Property",
+    "PropertyTitle": "Beachfront Property",
     "PropertyImage": {
       "url": "https://framerusercontent.com/images/W8DeSLlipPrJDbCLgsRcMD7kprQ.jpg"
     },
@@ -121,7 +121,7 @@
   },
   {
     "Slug": "penthouse-with-rooftop-garden",
-    "PropertyName": "Penthouse with Rooftop Garden",
+    "PropertyTitle": "Penthouse with Rooftop Garden",
     "PropertyImage": {
       "url": "https://framerusercontent.com/images/NVrs4tg0zGUs1xACzL3deyezRYg.jpg"
     },
@@ -136,7 +136,7 @@
   },
   {
     "Slug": "modern-apartment",
-    "PropertyName": "Modern Apartment ",
+    "PropertyTitle": "Modern Apartment ",
     "PropertyImage": {
       "url": "https://framerusercontent.com/images/P8X7850V0sXmirYsYMATjelzuw.jpg"
     },
@@ -151,7 +151,7 @@
   },
   {
     "Slug": "luxury-condo-with-city-views",
-    "PropertyName": "Luxury Condo with City Views",
+    "PropertyTitle": "Luxury Condo with City Views",
     "PropertyImage": {
       "url": "https://framerusercontent.com/images/yK1yEtSezNAnz25TK0Ef8u9SLo.jpg"
     },
@@ -166,7 +166,7 @@
   },
   {
     "Slug": "spacious-family-home",
-    "PropertyName": "Spacious Family Home",
+    "PropertyTitle": "Spacious Family Home",
     "PropertyImage": {
       "url": "https://framerusercontent.com/images/3twHQLDhM2jyVrW9RrNoiIYeHBY.jpg"
     },
